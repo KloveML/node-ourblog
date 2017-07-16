@@ -20,7 +20,7 @@ nodejs + express + mongodb + mongoose + formidable + qiniu + es6/7
 全局安装cross-env
 npm i -g cross-env
 
-git clone 
+git clone https://github.com/KloveML/node-ourblog.git
 
 cd node-ourblog
 
