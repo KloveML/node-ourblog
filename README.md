@@ -1,4 +1,4 @@
-# 前言
+# 前言:blush:
 
 本项目是我博客后台管理系统的后台Nodejs项目，对应[vue-ourblog-manage](https://github.com/KloveML/vue-ourblog-manage.git)项目的后台接口
 
@@ -32,4 +32,3 @@ npm run dev(需先开启mongodb)
 
 ```
 
-:blush:
